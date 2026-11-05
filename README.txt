@@ -1,7 +1,7 @@
 KARTHIKEYAN M — PREMIUM PORTFOLIO
 
 Preview locally: open index.html in Chrome/Safari.
-Files: index.html, style.css, script.js, assets/karthikeyan-profile.jpg, public-resume.pdf.
+Files: index.html, style.css, script.js, karthikeyan-profile.jpg, public-resume.pdf.
 
 Included: your uploaded profile photo, all 11 distinct project entries transcribed from your resume, company experience, skills, education, responsive mobile layout, animated section reveals, project filters and project detail popups.
 
